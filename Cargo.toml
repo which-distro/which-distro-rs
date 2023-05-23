@@ -1,6 +1,13 @@
 [package]
 name = "which_distro"
+description = "Find which Linux distribution you are on at the highest granularity."
 version = "0.1.0"
 edition = "2021"
+authors = ["which-distro-rs contributors"]
+readme = "README.md"
+license = "GPL-2.0-only"
+categories = ["os"]
+repository = "https://github.com/which-distro/which-distro-rs"
+keywords = ["linux", "distro", "distribution"]
 
 [dependencies]
